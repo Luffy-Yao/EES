@@ -1,8 +1,8 @@
-# ENS
+# Efficient_Elastic_Solver
 Install the package by using the following commands in R:
 ```{r}
-install_github("HARDDDDD/ENS")
-library(ENS)
+install_github("Luffy-Yao/Efficient_Elastic_Solver")
+library(Efficient_Elastic_Solver)
 
 ```
 
