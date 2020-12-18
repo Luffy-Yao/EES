@@ -1,8 +1,8 @@
-# Efficient_Elastic_Solver
+# EES (Efficient_Elastic_Solver)
 Install the package by using the following commands in R:
 ```{r}
-install_github("Luffy-Yao/Efficient_Elastic_Solver")
-library(Efficient_Elastic_Solver)
+install_github("Luffy-Yao/EES")
+library(EES)
 
 ```
 
